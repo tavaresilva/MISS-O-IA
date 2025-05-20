@@ -5,23 +5,23 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
   {
-    enunciado: "5 + 3",
-    alternativas: ["8", "7"],
+    enunciado: "10 + 10",
+    alternativas: ["20", "2"],
   },
   {
-    enunciado: "12 - 4",
-    alternativas: ["8", "6"],
+    enunciado: "15 - 7",
+    alternativas: ["8", "9"],
   },
   {
-    enunciado: "6 x 7",
-    alternativas: ["42", "36"],
+    enunciado: "5 x 6",
+    alternativas: ["30", "56"],
   },
   {
-    enunciado: "25 ÷ 5",
-    alternativas: ["5", "4"],
+    enunciado: "36 ÷ 6",
+    alternativas: ["6", "4"],
   },
   {
-    enunciado: "9²",
-    alternativas: ["81", "18"],
+    enunciado: "4²",
+    alternativas: ["16", "8"],
   },
 ];
