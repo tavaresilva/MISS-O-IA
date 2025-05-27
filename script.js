@@ -22,7 +22,7 @@ const perguntas = [
   },
   {
     enunciado: "4²",
-    alternativas: ["16", "8","667"],
+    alternativas: ["16", "8","66", "12", "56"],
   },
 ];
 
