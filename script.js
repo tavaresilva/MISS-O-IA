@@ -41,7 +41,6 @@ function mostraAlternativas(){
         botaoAlternativas.textContent = alternativa.texto;
         botaoAlternativas.addEventListener("click", () => respostaSelecionada(alternativa));
         caixaAlternativas.appendChild(botaoAlternativas);
-        
     }
 }
 function respostaSelecionada(opcaoSelecionada){
@@ -50,3 +49,4 @@ function respostaSelecionada(opcaoSelecionada){
     atual++;
     mostraPergunta();
 }
+mostraPergunta();
