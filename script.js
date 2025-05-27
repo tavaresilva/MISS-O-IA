@@ -6,19 +6,19 @@ const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
   {
     enunciado: "10 + 10",
-    alternativas: ["20", "2"],
+    alternativas: ["20", "2","5", "4","i", "7"],
   },
   {
     enunciado: "15 - 7",
-    alternativas: ["8", "9"],
+    alternativas: ["8", "9","3", "1", "-0"],
   },
   {
     enunciado: "5 x 6",
-    alternativas: ["30", "56"],
+    alternativas: ["30", "56","12", "512", "78"],
   },
   {
     enunciado: "36 ÷ 6",
-    alternativas: ["6", "4"],
+    alternativas: ["6", "4","66", "15", "36"],
   },
   {
     enunciado: "4²",
